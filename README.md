@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  UI allowing data entry to plot standard charts.
+  name: chartjs-interactive-builder version: 1.0 type: Repository author: VarshuAi description: >   UI allowing data entry to plot standard charts. primary_tech: CSS
 primary_tech: CSS
 ```
 
